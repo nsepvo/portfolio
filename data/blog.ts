@@ -1,7 +1,12 @@
-export const posts = [
+export default [
   {
-    slug: "why-i-built-this",
-    title: "Why I built this",
-    content: "Markdown-style text here...",
+    slug: "nextjs-app-router-guide",
+    title: "Next.js App Router Guide",
+    content: "Full article content here..."
   },
+  {
+    slug: "ui-design-principles",
+    title: "UI Design Principles",
+    content: "Minimal UI design breakdown..."
+  }
 ];
